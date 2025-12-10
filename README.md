@@ -22,7 +22,7 @@ Este es un simulador interactivo desarrollado en Python utilizando la biblioteca
 - **Sistema Operativo:** Compatible con Windows, Linux o macOS (probado en Windows 11).
 
 ## Instalación
-1. **Clona o descarga el proyecto:** Asegúrate de tener los archivos en una carpeta local, por ejemplo, `c:/Users/anton/Downloads/Juego`.
+1. **Clona o descarga el proyecto:** Asegúrate de tener los archivos en una carpeta local, por ejemplo, `c:/Users/Downloads/Simulator`.
 2. **Instala las dependencias:**
    - Abre una terminal y ejecuta:
      ```
