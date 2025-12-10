@@ -73,3 +73,5 @@ Este proyecto es de código abierto bajo la Licencia MIT. Puedes usarlo y modifi
 
 ## Contacto
 Para preguntas o soporte, contacta al desarrollador principal.
+<img width="888" height="793" alt="image" src="https://github.com/user-attachments/assets/3d39bec5-486f-44ed-ad17-b359a76ba612" />
+
